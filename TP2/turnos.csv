@@ -1,0 +1,5 @@
+﻿id_turno;fecha;hora;motivo_consulta
+1;2021-03-24;10:30:00;control
+2;2021-04-06;14:00:00;estudio de sangre
+3;2022-08-26;16:15:00;estudio oftalmologico
+4;2022-04-15;12:45:00;control post operación
